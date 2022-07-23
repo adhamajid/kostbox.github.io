@@ -11,20 +11,20 @@
 .skill-name{
   font-size: 10px;
   font-weight: 700;
-  color: #f1f1f1;
+  color: #282828;
   text-transform: uppercase;
   margin: 20px 0;
 }
 
 .skill-bar{
   height: 14px;
-  background: #282828;
+  background: #f1f1f1;
   border-radius: 3px;
 }
 
 .skill-per{
   height: 14px;
-  background: #d13639;
+  background: #3bd136;
   border-radius: 3px;
   position: relative;
   animation: fillBars 2.5s 1;
